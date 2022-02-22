@@ -1,0 +1,8 @@
+# app to list products, build marketplace
+
+To build marketplace:
+1. Product model is required
+2. Seller account for shopkeepers
+3. Customer account
+
+There will be authentication
